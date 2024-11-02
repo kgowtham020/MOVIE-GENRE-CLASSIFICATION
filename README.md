@@ -1,2 +1,2 @@
 MOVIE-GENRE-CLASSIFICATION
-made with ai and python code
+used online available datasets
